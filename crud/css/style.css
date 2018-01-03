@@ -1,0 +1,58 @@
+body{
+	background-color: #e6e6e6;
+	font-family: arial;
+	font-size: 18px;
+	line-height: 22px;
+	margin: 0 auto;
+	width: 800px;
+}
+html body a{
+	list-style: none;
+	text-decoration: none;
+
+}
+.headeroption{
+	background: #3399ff url("../images/Google.png") no-repeat scroll 20px; 
+	height: 90px;
+	overflow: hidden;
+	text-align: center;
+
+}
+.footeroption{
+background: #3399ff;
+height: 80px;
+overflow: hidden;
+}
+.content{
+	background: #f2f2f2;
+	border: 5px solid #3399ff;
+	font-size: 16px;
+	line-height: 22px;
+	min-height: 450px;
+	overflow: hidden; 
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+
+.Tmain{
+	width: 100%;
+	border: 5px solid darkblue;
+	margin:20px 0;
+}
+.Tmain td{
+	text-align: center;
+}
+table.Tmain tr:nth-child(2n){
+	background: #d6d6d6; height: 30px; 
+}
+.footeroption h2{
+	font-size: 25px;
+	text-align: center;
+}
+div{
+	text-align: center;
+}
+ a{
+	list-style: none;
+	text-decoration: none;
+}
